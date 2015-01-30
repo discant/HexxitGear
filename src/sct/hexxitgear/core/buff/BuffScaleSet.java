@@ -14,6 +14,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * File changed by Xander Smeets, 30-1-2015.
  */
 
 package sct.hexxitgear.core.buff;
